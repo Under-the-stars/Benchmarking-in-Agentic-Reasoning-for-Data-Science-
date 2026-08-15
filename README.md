@@ -190,6 +190,7 @@ docker run -p 8888:8888 gpsaggese/langgraph_agentic_ds
 4. Adversarial Reliability Test — Label flipping and impossible value injection
 5. Interpretability — SHAP analysis with Quality Reviewer validation
 
+![Architecture diagram of the LangGraph multi-agent workflow](Benchmarking workflow.png)
 ---
 
 ## Useful Resources
